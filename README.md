@@ -28,11 +28,7 @@ Interests:
   - Building cool things that actually solve problems
 </pre>
 
--  BSc graduate majoring in **Computer Science** and **Information Systems**
--  Building toward a career in **cybersecurity**
--  I enjoy working on **software projects**, **problem-solving**, and **systems thinking**
--  Currently sharpening my skills in **security**, **development**, and **real-world tech projects**
--  Based in South Africa
+BSc graduate in Computer Science and Information Systems, currently pursuing an Honors degree in Information Systems, with a focus on cybersecurity, information security principles, and secure system design. Skilled in operating systems, networking, risk assessment, and basic security practices, with experience gained through academic projects and tutoring. Seeking an entry-level cybersecurity or information security role where I can apply my technical knowledge, analytical thinking, and problem-solving skills to help protect systems, networks, and data
 
 ---
 
