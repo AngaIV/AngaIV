@@ -102,16 +102,13 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   Exploring monitoring, detection, and system security principles.
 
 ### Software Development
-- **Book Value Calculator**  
-  An app focused on solving a practical problem with a clean and useful interface.
-
 - **Makhanda SPCA System**  
   A university project aimed at building a useful system with real-world relevance.
 
 
-### Data / Analytics
+<!--### Data / Analytics
 - **EAFC/FIFA Scouting & Consultation Project**  
-  Using data analysis to support a football scouting and consultation concept.
+  Using data analysis to support a football scouting and consultation concept.-->
 
 ---
 
