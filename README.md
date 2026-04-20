@@ -1,4 +1,4 @@
-<h1 align="center">Howzit, I'm Anga 👋</h1>
+<h1 align="center">Hello there, I'm Anga 👋</h1>
 <h3 align="center">BSc Computer Science & Information Systems Graduate • Honours in Information Systems • Aspiring Cybersecurity Professional</h3>
 
 <p align="center">
