@@ -1,15 +1,15 @@
-<h1 align="center">yo, i'm Anga 👋</h1>
-<h3 align="center">BSc graduate • Honours in Information Systems • aspiring cybersecurity professional</h3>
+<h1 align="center">Howzit, I'm Anga 👋</h1>
+<h3 align="center">BSc Computer Science & Information Systems Graduate • Honours in Information Systems • Aspiring Cybersecurity Professional</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://github.com/AngaIV">GitHub</a> •
+  <a href="https://www.linkedin.com/in/AngaIV/">LinkedIn</a> •
+  <a href="mailto:anga.peter1@icloud.com">Email</a>
 </p>
 
 ---
 
-## ⚡ about me
+## About Me
 
 <pre>
 name: Anga Peter
@@ -28,15 +28,15 @@ interests:
   - Building cool things that actually solve problems
 </pre>
 
-- 🎓 BSc graduate majoring in **Computer Science** and **Information Systems**
-- 🛡️ Building toward a career in **cybersecurity**
-- 💻 I enjoy working on **software projects**, **problem-solving**, and **systems thinking**
-- 🌱 Currently sharpening my skills in **security**, **development**, and **real-world tech projects**
-- 📍 Based in South Africa
+-  BSc graduate majoring in **Computer Science** and **Information Systems**
+-  Building toward a career in **cybersecurity**
+-  I enjoy working on **software projects**, **problem-solving**, and **systems thinking**
+-  Currently sharpening my skills in **security**, **development**, and **real-world tech projects**
+-  Based in South Africa
 
 ---
 
-## 🧠 tech stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -52,34 +52,32 @@ interests:
 
 ---
 
-## 🚀 featured projects
+## Featured Projects
 
-### 🔐 Cybersecurity / Systems
+### Cybersecurity / Systems
 - **Reverse Shell & VM Networking Lab**  
   Hands-on security lab work using virtual machines, vulnerable environments, and network configuration.
 
 - **File Integrity Monitoring Concepts**  
   Exploring monitoring, detection, and system security principles.
 
-### 💻 Software Development
+### Software Development
 - **Book Value Calculator**  
   An app focused on solving a practical problem with a clean and useful interface.
 
 - **Makhanda SPCA System**  
   A university project aimed at building a useful system with real-world relevance.
 
-- **Jalfuel**  
-  A product-driven project focused on renewable gel fuel as an alternative energy solution.
 
-### 📊 Data / Analytics
+### Data / Analytics
 - **EAFC/FIFA Scouting & Consultation Project**  
   Using data analysis to support a football scouting and consultation concept.
 
 ---
 
-## 📈 currently on my radar
+## Currently On My Radar
 
-- ethical hacking
+- Ethical Hacking
 - network security
 - secure systems
 - backend development
