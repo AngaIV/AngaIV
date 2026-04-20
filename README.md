@@ -12,19 +12,19 @@
 ## About Me
 
 <pre>
-name: Anga Peter
-location: South Africa
-current_focus:
+Name: Anga Peter
+Location: Cape Town, South Africa
+Current_focus:
   - Cybersecurity
   - Software Development
   - Data & Systems
-education:
+Education:
   - BSc in Computer Science & Information Systems
   - Currently pursuing BSc Honours in Information Systems
-interests:
-  - Security
+Interests:
+  - Cybersecurity
+  - Networks
   - Backend Development
-  - Tech for impact
   - Building cool things that actually solve problems
 </pre>
 
