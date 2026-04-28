@@ -102,8 +102,8 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   Exploring monitoring, detection, and system security principles.
 
 ### Software Development
-- **Makhanda SPCA System**  
-  A university project aimed at building a useful system with real-world relevance.
+- **Intergalactic War**  
+  Intergalactic War is a Java-based arcade-style shooting game. <a href="https://github.com/AngaIV/Intergalactic-War">Click Here </a> to access the repository.
 
 
 <!--### Data / Analytics
