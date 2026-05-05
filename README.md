@@ -95,11 +95,9 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
 ## Featured Projects
 
 ### Cybersecurity / Systems
-- **Reverse Shell & VM Networking Lab**  
-  Hands-on security lab work using virtual machines, vulnerable environments, and network configuration.
 
-- **File Integrity Monitoring Concepts**  
-  Exploring monitoring, detection, and system security principles.
+- **Wazuh Firewall Response**  
+  Automated SSH brute-force detection and mitigation using Wazuh SIEM and iptables firewall rules. <a href="https://github.com/AngaIV/wazuh-firewall-response">Click Here </a> to access the repository.
 
 ### Software Development
 - **Intergalactic War**  
