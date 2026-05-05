@@ -79,6 +79,7 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   <img src="https://img.shields.io/badge/Incident_Response-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Threat_Detection-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox_Networking-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/STRIDE_Threat_Modelling-111111?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Tools & Practices
@@ -94,7 +95,6 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/STRIDE_Threat_Modelling-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Project-111111?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Systems_Thinking-111111?style=for-the-badge&logoColor=white" />
 </p>
