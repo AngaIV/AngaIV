@@ -46,6 +46,7 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/MIPS_Assembly-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell%2FF%23-111111?style=for-the-badge&logo=haskell&logoColor=white" />
 </p>
@@ -63,6 +64,21 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Cybersecurity & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-111111?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/XDR-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Security-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/iptables-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH_Security-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log_Analysis-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident_Response-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat_Detection-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox_Networking-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ### Tools & Practices
