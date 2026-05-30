@@ -107,18 +107,21 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
 </p>
 
 ---
-
 ## Featured Projects
 
 ### Cybersecurity / Systems
 
-- **Wazuh Firewall Response**  
-  Automated SSH brute-force detection and mitigation using Wazuh SIEM and iptables firewall rules. <a href="https://github.com/AngaIV/wazuh-firewall-response">Click Here </a> to access the repository.
+* **Active Defence SIEM Automation** Automated SSH brute-force detection and mitigation by combining a Wazuh SIEM/XDR workflow with local host-based `iptables` firewall rules.  
+  **Repository:** [github.com/AngaIV/wazuh-firewall-response](https://github.com/AngaIV/wazuh-firewall-response)
 
 ### Software Development
-- **Intergalactic War**  
-  Intergalactic War is a Java-based arcade-style shooting game. <a href="https://github.com/AngaIV/Intergalactic-War">Click Here </a> to access the repository.
 
+* **River of Life Church – E-Commerce Platform** A frontend web application for a ministry platform built with vanilla ES6+ JavaScript. Implements custom dynamic layout data injection, a high-performance global event delegation architecture, and strict runtime string-parsing validation loops.  
+  **Live Demo:** [angaiv.github.io/rolc.github.io](https://angaiv.github.io/rolc.github.io/)  
+  **Repository:** [github.com/AngaIV/rolc.github.io](https://github.com/AngaIV/rolc.github.io)
+
+* **Intergalactic War** A Java-based, arcade-style 2D shooting game built to demonstrate core Object-Oriented Programming (OOP) design patterns and game loop mechanics.  
+  **Repository:** [github.com/AngaIV/Intergalactic-War](https://github.com/AngaIV/Intergalactic-War)
 
 <!--### Data / Analytics
 - **EAFC/FIFA Scouting & Consultation Project**  
