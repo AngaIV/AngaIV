@@ -175,5 +175,5 @@ opportunities to learn something new and improve my skills.
 ---
 
 <p align="center">
-  <i>The Sky is The Limit.</i>
+  <i>Always building. Always learning.</i>
 </p>
