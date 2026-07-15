@@ -11,24 +11,33 @@
 
 ## About Me
 
-<pre>
+``` yaml
 Name: Anga Peter
 Location: Cape Town, South Africa
 Current_focus:
+  - Security Operations
   - Cybersecurity
   - Software Development
-  - Data & Systems
+  - Data Analytics
 Education:
   - BSc in Computer Science & Information Systems
   - Currently pursuing BSc Honours in Information Systems
 Interests:
   - Cybersecurity
-  - Networks
-  - Backend Development
-  - Building cool things that actually solve problems
-</pre>
+  - Security Operations
+  - Linux & Networking
+  - Building tools that solve real-world problems
+```
 
-BSc graduate in Computer Science and Information Systems, currently pursuing an Honors degree in Information Systems, with a focus on cybersecurity, information security principles, and secure system design. Skilled in operating systems, networking, risk assessment, and basic security practices, with experience gained through academic projects and tutoring. Seeking an entry-level cybersecurity or information security role where I can apply my technical knowledge, analytical thinking, and problem-solving skills to help protect systems, networks, and data.
+I'm a Computer Science and Information Systems graduate from Rhodes
+University, currently completing my Honours in Information Systems with
+a focus on Cybersecurity and Data Analytics.
+
+I enjoy building projects that solve real problems, whether that's
+developing security tools, experimenting with automation, or building
+web applications. Most of my recent work has focused on cybersecurity,
+Linux, networking, and software development, and I'm always looking for
+opportunities to learn something new and improve my skills.
 
 ---
 
@@ -37,73 +46,68 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/MIPS_Assembly-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell%2FF%23-111111?style=for-the-badge&logo=haskell&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+### Web & Software Development
 <p>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%2FScrum-111111?style=for-the-badge&logoColor=white" />
 </p>
 
-### Databases & Cloud
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Cybersecurity & Infrastructure
+### Cybersecurity
 <p>
   <img src="https://img.shields.io/badge/Wazuh-111111?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/XDR-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM%2FXDR-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Security-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/iptables-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH_Security-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVWA-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH_Hardening-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Log_Analysis-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incident_Response-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat_Detection-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox_Networking-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/STRIDE_Threat_Modelling-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall_Rules-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STRIDE-111111?style=for-the-badge&logoColor=white" />
 </p>
 
-### Tools & Practices
+### Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Tableau_Prep-111111?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
+
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-111111?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%2FScrum-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit_Testing-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Project-111111?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems_Thinking-111111?style=for-the-badge&logoColor=white" />
-</p>
-
-### Spoken Languages
-<p>
-  <img src="https://img.shields.io/badge/isiXhosa-Native-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-Fluent-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Afrikaans-Intermediate-111111?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -111,16 +115,19 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
 
 ### Cybersecurity / Systems
 
-* **Active Defence SIEM Automation** Automated SSH brute-force detection and mitigation by combining a Wazuh SIEM/XDR workflow with local host-based `iptables` firewall rules.  
+* **Security Operations Lab:** A Python desktop application for monitoring network activity, analyzing authentication logs, and automating incident response on Linux.  
+  **Repository:** [github.com/AngaIV/SEC-OPS-Lab](https://github.com/AngaIV/SEC-OPS-Lab)
+  
+* **Active Defence SIEM Automation:** Automated SSH brute-force detection and mitigation by combining a Wazuh SIEM/XDR workflow with local host-based `iptables` firewall rules.  
   **Repository:** [github.com/AngaIV/wazuh-firewall-response](https://github.com/AngaIV/wazuh-firewall-response)
 
 ### Software Development
 
-* **River of Life Church – E-Commerce Platform** A frontend web application for a ministry platform built with vanilla ES6+ JavaScript. Implements custom dynamic layout data injection, a high-performance global event delegation architecture, and strict runtime string-parsing validation loops.  
+* **River of Life Church – E-Commerce Platform:** An e-commerce website built with vanilla JavaScript. The project includes dynamic shopping cart functionality, form validation, and responsive UI components.  
   **Live Demo:** [angaiv.github.io/rolc.github.io](https://angaiv.github.io/rolc.github.io/)  
   **Repository:** [github.com/AngaIV/rolc.github.io](https://github.com/AngaIV/rolc.github.io)
 
-* **Intergalactic War** A Java-based, arcade-style 2D shooting game built to demonstrate core Object-Oriented Programming (OOP) design patterns and game loop mechanics.  
+* **Intergalactic War:** A Java arcade-style shooting game built from scratch. The project focuses on object-oriented programming, collision detection, enemy AI, and game mechanics.  
   **Repository:** [github.com/AngaIV/Intergalactic-War](https://github.com/AngaIV/Intergalactic-War)
 
 <!--### Data / Analytics
@@ -131,9 +138,14 @@ BSc graduate in Computer Science and Information Systems, currently pursuing an 
 
 ## Certifications
 
+- **Certified in Cybersecurity (CC)** — ISC2, 2026
+- **Google Cloud Cybersecurity** — Google Cloud, 2026
+- **Google Cybersecurity** — Google
+- **Google AI Essentials** — Google, 2026
+- **MasterCard Cybersecurity Job Simulation** — Forage, 2026
 - **Data Science for Business** — DataCamp, 2025  
 - **Analyzing Data in Tableau** — DataCamp, 2025
-- **ISC2 Certified in Cybersecurity (CC)** - ISC2, In progress...
+- **Astron Energy Bursary Recipient** — 2023–2025
 
 ---
 
