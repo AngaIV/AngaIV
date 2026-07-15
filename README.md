@@ -140,7 +140,7 @@ opportunities to learn something new and improve my skills.
 
 - **Certified in Cybersecurity (CC)** — ISC2, 2026
 - **Google Cloud Cybersecurity** — Google Cloud, 2026
-- **Google Cybersecurity** — Google
+- **Google Cybersecurity** — Google, 2026
 - **Google AI Essentials** — Google, 2026
 - **MasterCard Cybersecurity Job Simulation** — Forage, 2026
 - **Data Science for Business** — DataCamp, 2025  
