@@ -59,7 +59,7 @@ opportunities to learn something new and improve my skills.
 
 ### Frameworks & Technologies
 <p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### Databases
