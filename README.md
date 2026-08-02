@@ -115,6 +115,9 @@ opportunities to learn something new and improve my skills.
 
 ### Cybersecurity / Systems
 
+* **WinHarden:** An interactive C# security console and CLI tool for auditing Windows OS and network baselines, executing automated registry remediation, and generating compliance reports.  
+  **Repository:** [github.com/AngaIV/WinHarden](https://github.com/AngaIV/WinHarden)
+
 * **Security Operations Lab:** A Python desktop application for monitoring network activity, analyzing authentication logs, and automating incident response on Linux.  
   **Repository:** [github.com/AngaIV/SEC-OPS-Lab](https://github.com/AngaIV/SEC-OPS-Lab)
   
