@@ -55,17 +55,11 @@ opportunities to learn something new and improve my skills.
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-### Web & Software Development
+### Frameworks & Technologies
 <p>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%2FScrum-111111?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Databases
