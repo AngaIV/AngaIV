@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Anga 👋</h1>
-<h3 align="center">BSc Computer Science & Information Systems Graduate • Honours in Information Systems • Aspiring Cybersecurity Professional</h3>
+<h3 align="center">BSc Computer Science & Information Systems Graduate • Honours in Information Systems • Aspiring Software/Cybersecurity Professional</h3>
 
 <p align="center">
   <a href="https://github.com/AngaIV">GitHub</a> •
