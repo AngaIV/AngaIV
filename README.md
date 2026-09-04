@@ -126,7 +126,7 @@ opportunities to learn something new and improve my skills.
 ### Software Development
 
 * **Personal Portfolio & Showcase:** A responsive, neo-brutalist portfolio website built with Next.js (App Router), TypeScript, and Tailwind CSS. It highlights my work across software development, cybersecurity, and data analytics with custom UI components and global SEO metadata.  
-  **Live Site:** [https://anga-peter.vercel.app](https://anga-peter.vercel.app)
+  **Live Site:** [https://anga-peter.vercel.app](https://anga-peter.vercel.app)\
   **Repository:** [github.com/AngaIV/Portfolio](https://github.com/AngaIV/Portfolio)
 
 * **River of Life Church – E-Commerce Platform:** An e-commerce website built with vanilla JavaScript. The project includes dynamic shopping cart functionality, form validation, and responsive UI components.  
