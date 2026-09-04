@@ -60,6 +60,9 @@ opportunities to learn something new and improve my skills.
 
 ### Frameworks & Technologies
 <p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
@@ -103,6 +106,7 @@ opportunities to learn something new and improve my skills.
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Project-111111?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -121,16 +125,16 @@ opportunities to learn something new and improve my skills.
 
 ### Software Development
 
+* **Personal Portfolio & Showcase:** A responsive, neo-brutalist portfolio website built with Next.js (App Router), TypeScript, and Tailwind CSS. It highlights my work across software development, cybersecurity, and data analytics with custom UI components and global SEO metadata.  
+  **Live Site:** [https://anga-peter.vercel.app](https://anga-peter.vercel.app)
+  **Repository:** [github.com/AngaIV/Portfolio](https://github.com/AngaIV/Portfolio)
+
 * **River of Life Church – E-Commerce Platform:** An e-commerce website built with vanilla JavaScript. The project includes dynamic shopping cart functionality, form validation, and responsive UI components.  
   **Live Demo:** [angaiv.github.io/rolc.github.io](https://angaiv.github.io/rolc.github.io/)  
   **Repository:** [github.com/AngaIV/rolc.github.io](https://github.com/AngaIV/rolc.github.io)
 
 * **Intergalactic War:** A Java arcade-style shooting game built from scratch. The project focuses on object-oriented programming, collision detection, enemy AI, and game mechanics.  
   **Repository:** [github.com/AngaIV/Intergalactic-War](https://github.com/AngaIV/Intergalactic-War)
-
-<!--### Data / Analytics
-- **EAFC/FIFA Scouting & Consultation Project**  
-  Using data analysis to support a football scouting and consultation concept.-->
 
 ---
 
