@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://github.com/AngaIV">GitHub</a> •
   <a href="https://www.linkedin.com/in/AngaIV/">LinkedIn</a> •
-  <a href="mailto:angapeter@outlook.com">Email</a>
+  <a href="mailto:angapeter@outlook.com">Email</a> •
+  <a href="https://anga-peter.vercel.app/">Website</a>
 </p>
 
 ---
